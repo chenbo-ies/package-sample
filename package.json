@@ -1,11 +1,14 @@
 {
-  "name": "package-sample",
-  "version": "3.0.0",
+  "name": "@chenbo-ies/package-sample",
+  "version": "4.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "@chenbo-ies:registry": "https://npm.pkg.github.com"
+  }
 }
