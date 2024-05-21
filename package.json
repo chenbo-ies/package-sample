@@ -7,8 +7,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "publishConfig": {
-    "@chenbo-ies:registry": "https://npm.pkg.github.com"
-  }
+  "license": "ISC"
 }
